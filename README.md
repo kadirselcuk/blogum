@@ -3,6 +3,7 @@
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
 
 ![Preview](preview.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkadirselcuk%2Fblogum.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkadirselcuk%2Fblogum?ref=badge_shield)
 
 [See the live demo](https://demo-datocms-gatsby.netlify.com/)
 
@@ -50,3 +51,7 @@ This websites uses:
 
 - [GatsbyJS](https://github.com/gatsbyjs/gatsby) as website generator;
 - [gatsby-source-datocms](https://github.com/datocms/gatsby-source-datocms) to integrate the website with DatoCMS.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkadirselcuk%2Fblogum.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkadirselcuk%2Fblogum?ref=badge_large)
